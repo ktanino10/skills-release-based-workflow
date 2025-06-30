@@ -106,7 +106,8 @@ section {
   display: block;
 }
 body {
-  /* Add background-color declaration here */
+  background-color: black;
+
 }
 ol,
 ul {
@@ -126,10 +127,6 @@ q:after {
 table {
   border-collapse: collapse;
   border-spacing: 0;
-}
-
-body {
-  background-color: black;
 }
 
 
