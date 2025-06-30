@@ -4,7 +4,10 @@
 */
 
 html,
-body,
+body {
+    background-color: black;
+}
+
 div,
 span,
 applet,
@@ -104,10 +107,6 @@ menu,
 nav,
 section {
   display: block;
-}
-body {
-  background-color: black;
-
 }
 ol,
 ul {
